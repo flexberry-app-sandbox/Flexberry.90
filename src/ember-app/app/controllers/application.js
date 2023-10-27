@@ -28,19 +28,19 @@ export default Controller.extend({
             link: 'i-i-s-9-0-здание-l',
             caption: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-здание-l.caption'),
             title: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-здание-l.title'),
-            icon: 'tasks',
+            icon: 'chart line',
             children: null
           }, {
             link: 'i-i-s-9-0-город-l',
             caption: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-город-l.caption'),
             title: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-город-l.title'),
-            icon: 'file',
+            icon: 'edit',
             children: null
           }, {
             link: 'i-i-s-9-0-метеостанция-l',
             caption: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-метеостанция-l.caption'),
             title: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-метеостанция-l.title'),
-            icon: 'book',
+            icon: 'archive',
             children: null
           }]
         }, {
@@ -52,19 +52,19 @@ export default Controller.extend({
             link: 'i-i-s-9-0-здание-l',
             caption: i18n.t('forms.application.sitemap.new-folder1.i-i-s-9-0-здание-l.caption'),
             title: i18n.t('forms.application.sitemap.new-folder1.i-i-s-9-0-здание-l.title'),
-            icon: 'suitcase',
+            icon: 'list',
             children: null
           }, {
             link: 'i-i-s-9-0-город-l',
             caption: i18n.t('forms.application.sitemap.new-folder1.i-i-s-9-0-город-l.caption'),
             title: i18n.t('forms.application.sitemap.new-folder1.i-i-s-9-0-город-l.title'),
-            icon: 'suitcase',
+            icon: 'address card',
             children: null
           }, {
             link: 'i-i-s-9-0-метеостанция-l',
             caption: i18n.t('forms.application.sitemap.new-folder1.i-i-s-9-0-метеостанция-l.caption'),
             title: i18n.t('forms.application.sitemap.new-folder1.i-i-s-9-0-метеостанция-l.title'),
-            icon: 'edit',
+            icon: 'tags',
             children: null
           }]
         }
