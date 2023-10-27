@@ -1,0 +1,1 @@
+docker-compose -p 9_0-java up -d

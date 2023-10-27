@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-9-0-метеостанция-e",
+  "editForm": "i-i-s-9-0-метеостанция-e",
+  "external": false,
+  "caption": "Метеостанция",
+  "name": "IIS9_0МетеостанцияL",
+  "className": "МетеостанцияL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-9-0-метеостанция",
+      "modelProjection": "МетеостанцияL"
+    }
+  ]
+}

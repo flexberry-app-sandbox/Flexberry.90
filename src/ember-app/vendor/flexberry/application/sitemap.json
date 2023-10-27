@@ -1,0 +1,65 @@
+﻿{
+  "applicationCaption": "9_0",
+  "applicationTitle": "9_0",
+  "items": [
+    {
+      "link": null,
+      "menuName": "9-0",
+      "caption": "9_0",
+      "title": "9_0",
+      "children": [
+        {
+          "link": "i-i-s-9-0-здание-l",
+          "menuName": null,
+          "caption": "Здание",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-9-0-город-l",
+          "menuName": null,
+          "caption": "Город",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-9-0-метеостанция-l",
+          "menuName": null,
+          "caption": "Метеостанция",
+          "title": "",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "new-folder1",
+      "caption": "NewFolder1",
+      "title": "NewFolder1",
+      "children": [
+        {
+          "link": "i-i-s-9-0-здание-l",
+          "menuName": null,
+          "caption": "ЗданиеL",
+          "title": "Здание",
+          "children": null
+        },
+        {
+          "link": "i-i-s-9-0-город-l",
+          "menuName": null,
+          "caption": "ГородL",
+          "title": "Город",
+          "children": null
+        },
+        {
+          "link": "i-i-s-9-0-метеостанция-l",
+          "menuName": null,
+          "caption": "МетеостанцияL",
+          "title": "Метеостанция",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
