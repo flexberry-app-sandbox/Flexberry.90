@@ -28,19 +28,19 @@ export default Controller.extend({
             link: 'i-i-s-9-0-здание-l',
             caption: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-здание-l.caption'),
             title: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-здание-l.title'),
-            icon: 'chart line',
+            icon: 'phone',
             children: null
           }, {
             link: 'i-i-s-9-0-город-l',
             caption: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-город-l.caption'),
             title: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-город-l.title'),
-            icon: 'edit',
+            icon: 'chart bar',
             children: null
           }, {
             link: 'i-i-s-9-0-метеостанция-l',
             caption: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-метеостанция-l.caption'),
             title: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-метеостанция-l.title'),
-            icon: 'archive',
+            icon: 'table',
             children: null
           }]
         }, {
@@ -52,7 +52,7 @@ export default Controller.extend({
             link: 'i-i-s-9-0-здание-l',
             caption: i18n.t('forms.application.sitemap.new-folder1.i-i-s-9-0-здание-l.caption'),
             title: i18n.t('forms.application.sitemap.new-folder1.i-i-s-9-0-здание-l.title'),
-            icon: 'list',
+            icon: 'tasks',
             children: null
           }, {
             link: 'i-i-s-9-0-город-l',
@@ -64,7 +64,7 @@ export default Controller.extend({
             link: 'i-i-s-9-0-метеостанция-l',
             caption: i18n.t('forms.application.sitemap.new-folder1.i-i-s-9-0-метеостанция-l.caption'),
             title: i18n.t('forms.application.sitemap.new-folder1.i-i-s-9-0-метеостанция-l.title'),
-            icon: 'tags',
+            icon: 'suitcase',
             children: null
           }]
         }
