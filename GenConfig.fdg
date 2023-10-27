@@ -37,7 +37,7 @@
     },
     "Storage": {
       "Mssql": {
-        "DiffSql": false,
+        "DiffSql": true,
         "FullSql": true,
         "LiquibaseSql": false,
         "Security": false,
