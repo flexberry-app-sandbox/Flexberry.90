@@ -42,7 +42,7 @@
         "LiquibaseSql": false,
         "Security": false,
         "AdminUser": true,
-        "ConnectionString": null
+        "ConnectionString": "ID"
       },
       "PostgreSql": {
         "DiffSql": false,
