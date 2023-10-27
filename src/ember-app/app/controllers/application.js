@@ -28,19 +28,19 @@ export default Controller.extend({
             link: 'i-i-s-9-0-здание-l',
             caption: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-здание-l.caption'),
             title: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-здание-l.title'),
-            icon: 'building',
+            icon: 'table',
             children: null
           }, {
             link: 'i-i-s-9-0-город-l',
             caption: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-город-l.caption'),
             title: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-город-l.title'),
-            icon: 'folder open',
+            icon: 'phone',
             children: null
           }, {
             link: 'i-i-s-9-0-метеостанция-l',
             caption: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-метеостанция-l.caption'),
             title: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-метеостанция-l.title'),
-            icon: 'tasks',
+            icon: 'briefcase',
             children: null
           }]
         }, {
@@ -52,19 +52,19 @@ export default Controller.extend({
             link: 'i-i-s-9-0-здание-l',
             caption: i18n.t('forms.application.sitemap.new-folder1.i-i-s-9-0-здание-l.caption'),
             title: i18n.t('forms.application.sitemap.new-folder1.i-i-s-9-0-здание-l.title'),
-            icon: 'phone',
+            icon: 'folder open',
             children: null
           }, {
             link: 'i-i-s-9-0-город-l',
             caption: i18n.t('forms.application.sitemap.new-folder1.i-i-s-9-0-город-l.caption'),
             title: i18n.t('forms.application.sitemap.new-folder1.i-i-s-9-0-город-l.title'),
-            icon: 'list',
+            icon: 'file',
             children: null
           }, {
             link: 'i-i-s-9-0-метеостанция-l',
             caption: i18n.t('forms.application.sitemap.new-folder1.i-i-s-9-0-метеостанция-l.caption'),
             title: i18n.t('forms.application.sitemap.new-folder1.i-i-s-9-0-метеостанция-l.title'),
-            icon: 'suitcase',
+            icon: 'chart line',
             children: null
           }]
         }
