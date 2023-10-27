@@ -28,19 +28,19 @@ export default Controller.extend({
             link: 'i-i-s-9-0-здание-l',
             caption: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-здание-l.caption'),
             title: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-здание-l.title'),
-            icon: 'table',
+            icon: 'edit',
             children: null
           }, {
             link: 'i-i-s-9-0-город-l',
             caption: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-город-l.caption'),
             title: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-город-l.title'),
-            icon: 'phone',
+            icon: 'list',
             children: null
           }, {
             link: 'i-i-s-9-0-метеостанция-l',
             caption: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-метеостанция-l.caption'),
             title: i18n.t('forms.application.sitemap.9-0.i-i-s-9-0-метеостанция-l.title'),
-            icon: 'briefcase',
+            icon: 'folder',
             children: null
           }]
         }, {
@@ -52,19 +52,19 @@ export default Controller.extend({
             link: 'i-i-s-9-0-здание-l',
             caption: i18n.t('forms.application.sitemap.new-folder1.i-i-s-9-0-здание-l.caption'),
             title: i18n.t('forms.application.sitemap.new-folder1.i-i-s-9-0-здание-l.title'),
-            icon: 'folder open',
+            icon: 'book',
             children: null
           }, {
             link: 'i-i-s-9-0-город-l',
             caption: i18n.t('forms.application.sitemap.new-folder1.i-i-s-9-0-город-l.caption'),
             title: i18n.t('forms.application.sitemap.new-folder1.i-i-s-9-0-город-l.title'),
-            icon: 'file',
+            icon: 'chart bar',
             children: null
           }, {
             link: 'i-i-s-9-0-метеостанция-l',
             caption: i18n.t('forms.application.sitemap.new-folder1.i-i-s-9-0-метеостанция-l.caption'),
             title: i18n.t('forms.application.sitemap.new-folder1.i-i-s-9-0-метеостанция-l.title'),
-            icon: 'chart line',
+            icon: 'building',
             children: null
           }]
         }
